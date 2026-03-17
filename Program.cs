@@ -9,6 +9,8 @@ Console.WriteLine("fake commmit 2");
 
 Console.WriteLine("fake commmit 3");
 
+
+'function to find average from int[] values'
 int CalculateAverage(int[] values)
 {
     int sum = 0;
