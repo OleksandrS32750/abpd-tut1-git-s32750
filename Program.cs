@@ -31,6 +31,8 @@ int CalculateMax(int[] values)
     return max;
 }
 
+
+"function to find min value from int[] values" 
 int CalculateMin(int[] values)
 {
     int min = values[0];
