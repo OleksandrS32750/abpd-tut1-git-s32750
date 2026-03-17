@@ -20,6 +20,7 @@ int CalculateAverage(int[] values)
     return (sum / values.Length);
 }
 
+"function to find max value from int[] values"
 int CalculateMax(int[] values)
 {
     int max = values[0];
